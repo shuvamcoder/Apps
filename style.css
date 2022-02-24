@@ -1,0 +1,20 @@
+
+.line
+{
+width: 50px; 
+background-color: black; 
+height: 5px;
+margin: 8px auto;
+}
+#AppLabGames
+{
+    background-color: rgb(147, 147, 229);
+}
+#GameApps
+{
+    background-color: cyan;
+}
+#Bot
+{
+    background-color: lightgreen;
+}
